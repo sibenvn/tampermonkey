@@ -27,6 +27,8 @@
     remove('.Ads');
     remove('#pc-catfixx');
     remove('.notif-300');
+    remove('#mobile-catfixx');
+    remove('#mobile-catfish-top');
     setInterval(() => {
         markPopupAsOpened();
         remove('#invideo_wrapper');
